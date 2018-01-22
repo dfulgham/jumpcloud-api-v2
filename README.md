@@ -1,6 +1,7 @@
-# jumpcloud-node
-A [JumpCloud REST API](https://github.com/TheJumpCloud/JumpCloudAPI) client.
+# jumpcloud-api-v2
+A [JumpCloud REST API](https://github.com/TheJumpCloud/JumpCloudAPI) client utilizing version 2 of the API (association groups)
 
+#### DEPRICATED as follows is from V1 of the API.  (to be edited)
 ## About
 This project is still in its very earliest stages. However the goal is to provide a useable nodeJS helper to operate against the [JumpCloud](https://jumpcloud.com/) API for administration. Note there is a separate [Authentication and Authorization API](http://support.jumpcloud.com/knowledgebase/articles/455570) which is not covered by this repo.
 
